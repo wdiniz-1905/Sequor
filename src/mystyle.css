@@ -1,0 +1,80 @@
+.buttonDiv {
+  border-radius: 30%;
+  font-size: 22%;
+  padding: 2%;
+  margin-left: 22%;
+}
+
+.input1 {
+  font-size: 25pt;
+  border-radius: 6pt;
+}
+
+.input2 {
+  margin-top: 2%;
+  font-size: 25pt;
+  border-radius: 6pt;
+  border-top: 60px;
+}
+
+.dataName {
+  font-size: 25pt;
+  font-family: Arial, Helvetica, sans-serif;
+  color: red;
+}
+
+.dataPassword {
+  font-size: 25pt;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+}
+
+body {
+  background-color: rgb(71, 66, 136);
+}
+
+button {
+  border-radius: 10pt;
+  font-size: 26pt;
+}
+h3 {
+  font-size: 38pt;
+  text-align: center;
+  margin-top: -10%;
+}
+form {
+  margin-left: 14%;
+}
+
+.spassword {
+  font-size: 30pt;
+  color: black;
+}
+
+.name {
+  font-size: 30pt;
+  color: black;
+}
+.dataList {
+  margin-top: -98%;
+  margin-left: 45%;
+}
+table,
+th,
+td {
+  border: 5px solid rgb(211, 36, 36);
+  border-collapse: collapse;
+  font-size: 20pt;
+}
+th,
+td {
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.nameDados {
+  font-size: 17pt;
+}
+.tr {
+  font-size: 27pt;
+}
